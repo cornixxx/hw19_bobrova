@@ -70,7 +70,7 @@ get_header(); ?>
 								<div class="row">
 									<div class="col-md-5 col-sm-6 col-xs-12">
 										<div class="about-left wow fadeInLeft">
-											<img src="assets/images/about-img.jpg" alt="img">
+											<img src="<?php bloginfo('template_directory') ?>/images/about-img.jpg" alt="img">
 											<a class="introduction-btn" href="#">Introduction</a>
 										</div>
 									</div>
@@ -563,18 +563,18 @@ get_header(); ?>
 						<div class="col-md-12">
 							<div class="client-area">
 								<ul class="client-table">
-									<li><img src="assets/images/envato.png" alt="client logo"></li>
-									<li><img src="assets/images/google.png" alt="client logo"></li>
-									<li><img src="assets/images/amazon.png" alt="client logo"></li>
-									<li><img src="assets/images/discovery.png" alt="client logo"></li>
-									<li><img src="assets/images/envato.png" alt="client logo"></li>
-									<li><img src="assets/images/tuenti.png" alt="client logo"></li>
-									<li><img src="assets/images/envato.png" alt="client logo"></li>
-									<li><img src="assets/images/google.png" alt="client logo"></li>
-									<li><img src="assets/images/amazon.png" alt="client logo"></li>
-									<li><img src="assets/images/discovery.png" alt="client logo"></li>
-									<li><img src="assets/images/envato.png" alt="client logo"></li>
-									<li><img src="assets/images/tuenti.png" alt="client logo"></li>
+									<li><img src="<?php bloginfo('template_directory') ?>/images/envato.png" alt="client logo"></li>
+									<li><img src="<?php bloginfo('template_directory') ?>/images/google.png" alt="client logo"></li>
+									<li><img src="<?php bloginfo('template_directory') ?>/images/amazon.png" alt="client logo"></li>
+									<li><img src="<?php bloginfo('template_directory') ?>/images/discovery.png" alt="client logo"></li>
+									<li><img src="<?php bloginfo('template_directory') ?>/images/envato.png" alt="client logo"></li>
+									<li><img src="<?php bloginfo('template_directory') ?>/images/tuenti.png" alt="client logo"></li>
+									<li><img src="<?php bloginfo('template_directory') ?>/images/envato.png" alt="client logo"></li>
+									<li><img src="<?php bloginfo('template_directory') ?>/images/google.png" alt="client logo"></li>
+									<li><img src="<?php bloginfo('template_directory') ?>/images/amazon.png" alt="client logo"></li>
+									<li><img src="<?php bloginfo('template_directory') ?>/images/discovery.png" alt="client logo"></li>
+									<li><img src="<?php bloginfo('template_directory') ?>/images/envato.png" alt="client logo"></li>
+									<li><img src="<?php bloginfo('template_directory') ?>/images/tuenti.png" alt="client logo"></li>
 								</ul>
 							</div>
 						</div>

@@ -26,6 +26,7 @@ function _s_setup() {
 
 	// Add default posts and comments RSS feed links to head.
 	add_theme_support( 'automatic-feed-links' );
+	load_theme_textdomain( 'hw23', get_template_directory() . '/languages' );
 
 	/*
 	 * Let WordPress manage the document title.
